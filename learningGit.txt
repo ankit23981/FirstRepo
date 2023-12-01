@@ -1,1 +1,2 @@
 It is a version control system.
+It acts as a central codeBase.
